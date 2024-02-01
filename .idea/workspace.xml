@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55dfe2d8-9c38-4fe8-a1f8-62f3f5ed11d4" name="Changes" comment="Added variables">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="55dfe2d8-9c38-4fe8-a1f8-62f3f5ed11d4" name="Changes" comment="Added outputs for variables and output total cost of all seasons" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706803757610</updated>
-      <workItem from="1706803758680" duration="458000" />
+      <workItem from="1706803758680" duration="779000" />
     </task>
     <task id="LOCAL-00001" summary="Added variables">
       <option name="closed" value="true" />
@@ -57,7 +55,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706804072222</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added outputs for variables and output total cost of all seasons">
+      <option name="closed" value="true" />
+      <created>1706804505044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706804505044</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +71,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added variables" />
+    <MESSAGE value="Added outputs for variables and output total cost of all seasons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added outputs for variables and output total cost of all seasons" />
   </component>
 </project>
